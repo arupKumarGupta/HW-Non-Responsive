@@ -9,4 +9,6 @@ This can be considered as initial project for CSS3 tutorial.
 - Clone the repo
 - Run index.html
 
-Later will add this to github pages
+### Added Github pages link
+
+> https://arupkumargupta.github.io/HW-Non-Responsive
