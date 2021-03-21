@@ -12,3 +12,10 @@ This can be considered as initial project for CSS3 tutorial.
 ### Added Github pages link
 
 > https://arupkumargupta.github.io/HW-Non-Responsive
+
+### Responsive Version
+
+- Github Repo
+  > https://github.com/arupKumarGupta/HW-Responsive
+- Github Page
+  > https://arupkumargupta.github.io/HW-Responsive/
